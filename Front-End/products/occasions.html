@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flower Occasions - Choose the Perfect Flowers</title>
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&family=Outfit:wght@400;600;800&display=swap" rel="stylesheet">
+  <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
+  <style>
+    :root {
+      --primary: #d23f57;
+      --primary-rgb: 210, 63, 87;
+      --bg-glass: rgba(255, 255, 255, 0.45);
+      --bg-glass-hover: rgba(255, 255, 255, 0.65);
+      --border-glass: rgba(255, 255, 255, 0.35);
+      --text-main: #2b3445;
+      --text-muted: #7d879c;
+      --gradient-wedding: linear-gradient(135deg, #fff5f5 0%, #ffe3e3 100%);
+      --gradient-birthday: linear-gradient(135deg, #fff9db 0%, #fff3bf 100%);
+      --gradient-sympathy: linear-gradient(135deg, #f1f3f5 0%, #e9ecef 100%);
+      --gradient-accent: linear-gradient(90deg, #d23f57 0%, #f06292 100%);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: radial-gradient(circle at 50% 50%, #fff5f6 0%, #fcebeb 100%);
+      color: var(--text-main);
+      min-height: 100vh;
+      overflow-x: hidden;
+      line-height: 1.6;
+    }
+
+    header {
+      backdrop-filter: blur(10px);
+      background: rgba(255, 255, 255, 0.7);
+      border-bottom: 1px solid var(--border-glass);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      transition: all 0.3s ease;
+    }
+
+    .nav-container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 15px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo h1 {
+      font-family: 'Outfit', sans-serif;
+      font-size: 24px;
+      font-weight: 800;
+      color: #000;
+    }
+
+    .logo span {
+      color: var(--primary);
+    }
+
+    .back-btn {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      text-decoration: none;
+      color: var(--text-main);
+      font-weight: 500;
+      background: var(--bg-glass);
+      padding: 8px 16px;
+      border-radius: 30px;
+      border: 1px solid var(--border-glass);
+      transition: all 0.3s ease;
+    }
+
+    .back-btn:hover {
+      background: var(--primary);
+      color: #fff;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 15px rgba(var(--primary-rgb), 0.2);
+    }
+
+    .hero-section {
+      text-align: center;
+      padding: 60px 20px 40px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    .hero-section h2 {
+      font-family: 'Outfit', sans-serif;
+      font-size: 42px;
+      font-weight: 800;
+      margin-bottom: 15px;
+      background: var(--gradient-accent);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: fadeInDown 0.8s ease;
+    }
+
+    .hero-section p {
+      color: var(--text-muted);
+      font-size: 18px;
+      margin-bottom: 30px;
+      animation: fadeInUp 0.8s ease 0.2s;
+      animation-fill-mode: both;
+    }
+
+    .occasions-grid {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+      gap: 30px;
+      margin-bottom: 60px;
+    }
+
+    .occasion-card {
+      background: var(--bg-glass);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border: 1px solid var(--border-glass);
+      border-radius: 24px;
+      overflow: hidden;
+      box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.07);
+      transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+      display: flex;
+      flex-direction: column;
+    }
+
+    .occasion-card:hover {
+      transform: translateY(-8px) scale(1.02);
+      box-shadow: 0 12px 40px 0 rgba(31, 38, 135, 0.15);
+      border-color: rgba(var(--primary-rgb), 0.3);
+      background: var(--bg-glass-hover);
+    }
+
+    .card-image-wrapper {
+      position: relative;
+      width: 100%;
+      height: 250px;
+      overflow: hidden;
+    }
+
+    .card-image {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.6s ease;
+    }
+
+    .occasion-card:hover .card-image {
+      transform: scale(1.1);
+    }
+
+    .badge {
+      position: absolute;
+      top: 15px;
+      right: 15px;
+      background: var(--primary);
+      color: #fff;
+      padding: 6px 14px;
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    }
+
+    .card-content {
+      padding: 30px;
+      display: flex;
+      flex-direction: column;
+      flex-grow: 1;
+    }
+
+    .occasion-title {
+      font-family: 'Outfit', sans-serif;
+      font-size: 24px;
+      font-weight: 700;
+      margin-bottom: 12px;
+    }
+
+    .occasion-desc {
+      color: var(--text-muted);
+      font-size: 14px;
+      margin-bottom: 20px;
+      flex-grow: 1;
+    }
+
+    .suitability-box {
+      border-top: 1px solid rgba(0,0,0,0.05);
+      padding-top: 20px;
+      margin-top: 15px;
+    }
+
+    .suitability-title {
+      font-weight: 600;
+      font-size: 14px;
+      margin-bottom: 10px;
+      color: var(--text-main);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .flower-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .flower-tag {
+      background: rgba(255, 255, 255, 0.6);
+      border: 1px solid rgba(0,0,0,0.05);
+      padding: 4px 12px;
+      border-radius: 12px;
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--text-main);
+      transition: all 0.3s ease;
+    }
+
+    .occasion-card:hover .flower-tag {
+      background: #fff;
+      border-color: rgba(var(--primary-rgb), 0.2);
+    }
+
+    .explore-btn {
+      margin-top: 25px;
+      background: var(--gradient-accent);
+      color: #fff;
+      text-align: center;
+      text-decoration: none;
+      padding: 12px;
+      border-radius: 16px;
+      font-weight: 600;
+      font-size: 14px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 15px rgba(var(--primary-rgb), 0.15);
+    }
+
+    .explore-btn:hover {
+      box-shadow: 0 6px 20px rgba(var(--primary-rgb), 0.3);
+      transform: translateY(-2px);
+    }
+
+    .occasion-products {
+      max-width: 1200px;
+      margin: 0 auto 60px;
+      padding: 0 20px;
+    }
+
+    .occasion-products h3 {
+      font-family: 'Outfit', sans-serif;
+      font-size: 28px;
+      margin-bottom: 20px;
+    }
+
+    .occasion-filter {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 25px;
+    }
+
+    .occasion-filter button {
+      border: 1px solid rgba(var(--primary-rgb), 0.25);
+      background: #fff;
+      color: var(--text-main);
+      border-radius: 999px;
+      padding: 9px 16px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+
+    .occasion-filter button.active {
+      background: var(--primary);
+      color: #fff;
+    }
+
+    .occasion-product-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 18px;
+    }
+
+    .occasion-product-card {
+      background: #fff;
+      border: 1px solid rgba(0,0,0,0.06);
+      border-radius: 8px;
+      padding: 14px;
+      box-shadow: 0 8px 22px rgba(31, 38, 135, 0.08);
+    }
+
+    .occasion-product-card img {
+      width: 100%;
+      aspect-ratio: 4 / 3;
+      object-fit: cover;
+      border-radius: 6px;
+      margin-bottom: 12px;
+    }
+
+    .occasion-product-card h4 {
+      font-size: 17px;
+      margin-bottom: 6px;
+    }
+
+    .occasion-product-card p {
+      color: var(--text-muted);
+      font-size: 13px;
+      margin-bottom: 4px;
+    }
+
+    .empty-state {
+      color: var(--text-muted);
+      background: #fff;
+      border-radius: 8px;
+      padding: 18px;
+    }
+
+    @keyframes fadeInDown {
+      from {
+        opacity: 0;
+        transform: translateY(-20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    footer {
+      background: rgba(255, 255, 255, 0.8);
+      backdrop-filter: blur(10px);
+      border-top: 1px solid var(--border-glass);
+      text-align: center;
+      padding: 30px 20px;
+      margin-top: auto;
+    }
+
+    footer p {
+      color: var(--text-muted);
+      font-size: 14px;
+    }
+
+    @media (max-width: 768px) {
+      .hero-section h2 {
+        font-size: 32px;
+      }
+      .hero-section p {
+        font-size: 16px;
+      }
+      .occasions-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="nav-container">
+      <div class="logo">
+        <h1>flower shop <span>...</span></h1>
+      </div>
+      <a href="products.html" class="back-btn">
+        <i class="bx bx-arrow-back"></i> Back to Home
+      </a>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero-section">
+      <h2>Flowers For Every Occasion</h2>
+      <p>Express your feelings and make every moment unforgettable with our curated floral collections tailored for life's special occasions.</p>
+    </section>
+
+    <section class="occasions-grid">
+      <!-- Card 1: Weddings & Romance -->
+      <div class="occasion-card">
+        <div class="card-image-wrapper">
+          <img src="wedding.png" alt="Weddings and Romance" class="card-image">
+          <span class="badge">Romantic</span>
+        </div>
+        <div class="card-content">
+          <h3 class="occasion-title">Weddings & Anniversary</h3>
+          <p class="occasion-desc">Celebrate love, devotion, and elegant milestones with soft pastel colors, luxurious peony designs, and timeless white and red roses that symbolize deep eternal affection.</p>
+          
+          <div class="suitability-box">
+            <h4 class="suitability-title"><i class="bx bxs-spa"></i> Perfect Matches:</h4>
+            <div class="flower-tags">
+              <span class="flower-tag">Hybrid Tea Rose</span>
+              <span class="flower-tag">Grandiflora Rose</span>
+              <span class="flower-tag">Tree Peony</span>
+              <span class="flower-tag">Orchids</span>
+            </div>
+          </div>
+          <a href="#occasion-products" class="explore-btn" data-occasion-link="Wedding">
+            Shop Romance Collection <i class="bx bx-right-arrow-alt"></i>
+          </a>
+        </div>
+      </div>
+
+      <!-- Card 2: Birthdays & Celebrations -->
+      <div class="occasion-card">
+        <div class="card-image-wrapper">
+          <img src="birthday.png" alt="Birthdays & Celebrations" class="card-image">
+          <span class="badge">Festive</span>
+        </div>
+        <div class="card-content">
+          <h3 class="occasion-title">Birthdays & Congratulations</h3>
+          <p class="occasion-desc">Bring bright energy and cheerful vibes to someone's special day. Our vibrant mixtures of sunflowers, gerberas, and colorful tulips represent positivity, success, and warm friendship.</p>
+          
+          <div class="suitability-box">
+            <h4 class="suitability-title"><i class="bx bxs-spa"></i> Perfect Matches:</h4>
+            <div class="flower-tags">
+              <span class="flower-tag">Common Sunflower</span>
+              <span class="flower-tag">Gerbera Daisy</span>
+              <span class="flower-tag">Single Early Tulip</span>
+              <span class="flower-tag">Alstroemerias</span>
+            </div>
+          </div>
+          <a href="#occasion-products" class="explore-btn" data-occasion-link="Birthday">
+            Shop Birthday Blooms <i class="bx bx-right-arrow-alt"></i>
+          </a>
+        </div>
+      </div>
+
+      <!-- Card 3: Sympathy & Remembrance -->
+      <div class="occasion-card">
+        <div class="card-image-wrapper">
+          <img src="sympathy.png" alt="Sympathy & Remembrance" class="card-image">
+          <span class="badge">Peaceful</span>
+        </div>
+        <div class="card-content">
+          <h3 class="occasion-title">Sympathy & Funerals</h3>
+          <p class="occasion-desc">Convey heartfelt comfort, respect, and quiet solidarity. Pure white lilies, elegant chrysanthemums, and serene, long-lasting orchids offer peaceful comfort during difficult times.</p>
+          
+          <div class="suitability-box">
+            <h4 class="suitability-title"><i class="bx bxs-spa"></i> Perfect Matches:</h4>
+            <div class="flower-tags">
+              <span class="flower-tag">Asiatic Lily</span>
+              <span class="flower-tag">Oriental Lily</span>
+              <span class="flower-tag">Phalaenopsis Orchid</span>
+              <span class="flower-tag">Trumpet Lily</span>
+            </div>
+          </div>
+          <a href="#occasion-products" class="explore-btn" data-occasion-link="Sympathy">
+            Shop Sympathy Flowers <i class="bx bx-right-arrow-alt"></i>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class="occasion-products" id="occasion-products">
+      <h3 id="occasionProductsTitle">Suitable Flowers</h3>
+      <div class="occasion-filter">
+        <button type="button" class="active" data-occasion="Wedding">Wedding</button>
+        <button type="button" data-occasion="Birthday">Birthday</button>
+        <button type="button" data-occasion="Sympathy">Sympathy</button>
+        <button type="button" data-occasion="Anniversary">Anniversary</button>
+        <button type="button" data-occasion="Congratulations">Congratulations</button>
+      </div>
+      <div class="occasion-product-grid" id="occasionProductGrid"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Flower Shop. All rights reserved.</p>
+  </footer>
+
+  <script src="occasions.js"></script>
+</body>
+</html>

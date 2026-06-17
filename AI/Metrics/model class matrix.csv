@@ -1,0 +1,101 @@
+Class_ID,Class_Name,Total_Samples,Correct_Predictions,False_Positives,False_Negatives,Accuracy,Precision,Most_Confused_With_Class1,Confused_Count1,Most_Confused_With_Class2,Confused_Count2,Most_Confused_With_Class3,Confused_Count3,Accuracy_Percentage,Precision_Percentage
+0,Adenosma,13,13,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+1,African Lily,18,17,0,1,0.9444444444444444,1.0,Bluebell,1,None,0,None,0,94.44444444444444,100.0
+2,African Marigold,16,16,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+3,BlazingStar,15,15,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+4,Bleeding Heart,15,15,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+5,Bluebell,16,16,1,0,1.0,0.9411764705882353,None,0,None,0,None,0,100.0,94.11764705882352
+6,Borago,16,16,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+7,ButterflyPea,19,19,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+8,Canavalia,24,23,0,1,0.9583333333333334,1.0,Cryptostegia,1,None,0,None,0,95.83333333333334,100.0
+9,Cichorium intybus,20,20,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+10,Cobaea,20,20,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+11,Cryptostegia,20,20,1,0,1.0,0.9523809523809523,None,0,None,0,None,0,100.0,95.23809523809523
+12,Cupid's Dart,13,13,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+13,Dietes,17,17,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+14,Edelweiss,11,11,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+15,Fire Pink,12,12,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+16,Guernsey lily,19,19,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+17,Jasmine flower,12,11,0,1,0.9166666666666666,1.0,frangipani,1,None,0,None,0,91.66666666666666,100.0
+18,Meconopsis betonicifolia,21,20,0,1,0.9523809523809523,1.0,iris,1,None,0,None,0,95.23809523809523,100.0
+19,Narcissus,15,14,0,1,0.9333333333333333,1.0,White Starflower,1,None,0,None,0,93.33333333333333,100.0
+20,Nicandra,19,18,0,1,0.9473684210526315,1.0,Platycodon,1,None,0,None,0,94.73684210526315,100.0
+21,Pachystachys,19,19,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+22,Pandorea jasminoides,15,15,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+23,Paphiopedilum micranthum,20,20,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+24,Passiflora coccinea,22,22,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+25,Pavetta,21,21,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+26,Platycodon,19,19,1,0,1.0,0.95,None,0,None,0,None,0,100.0,95.0
+27,Speedwell,13,13,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+28,Stellaria,15,15,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+29,Tridax,22,21,0,1,0.9545454545454546,1.0,Edelweiss,1,None,0,None,0,95.45454545454545,100.0
+30,Trout Lily,21,21,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+31,Viola,17,17,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+32,White Starflower,8,8,1,0,1.0,0.8888888888888888,None,0,None,0,None,0,100.0,88.88888888888889
+33,alpine sea holly,8,8,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+34,anthurium,25,24,0,1,0.96,1.0,giant white arum lily,1,None,0,None,0,96.0,100.0
+35,bee balm,13,13,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+36,bird of paradise,14,14,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+37,bishop of llandaff,20,20,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+38,blanket flower,10,10,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+39,bromelia,10,10,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+40,broom,10,10,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+41,buttercup,19,19,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+42,cactus,14,14,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+43,californian poppy,10,10,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+44,cautleya spicata,8,8,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+45,colt's foot,15,13,0,2,0.8666666666666667,1.0,tiger lily,2,None,0,None,0,86.66666666666667,100.0
+46,corn poppy,13,13,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+47,cosmos,8,8,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+48,cotton,18,18,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+49,daisy,44,42,0,2,0.9545454545454546,1.0,cactus,1,spear thistle,1,None,0,95.45454545454545,100.0
+50,desert-rose,15,14,0,1,0.9333333333333333,1.0,fringed pink,1,None,0,None,0,93.33333333333333,100.0
+51,fire lily,14,14,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+52,flax flower,13,13,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+53,foxglove,15,15,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+54,frangipani,34,34,1,0,1.0,0.9714285714285714,None,0,None,0,None,0,100.0,97.14285714285714
+55,fringed pink,18,18,1,0,1.0,0.9473684210526315,None,0,None,0,None,0,100.0,94.73684210526315
+56,fritillary,17,17,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+57,geranium,10,10,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+58,giant white arum lily,11,11,1,0,1.0,0.9166666666666666,None,0,None,0,None,0,100.0,91.66666666666666
+59,globe thistle,19,18,0,1,0.9473684210526315,1.0,spear thistle,1,None,0,None,0,94.73684210526315,100.0
+60,globe-flower,8,8,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+61,grape hyacinth,13,13,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+62,great masterwort,13,13,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+63,iris,40,37,1,3,0.925,0.9736842105263158,yellow iris,3,None,0,None,0,92.5,97.36842105263158
+64,king protea,16,16,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+65,lavender,11,11,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+66,lilac hibiscus,15,14,0,1,0.9333333333333333,1.0,tree mallow,1,None,0,None,0,93.33333333333333,100.0
+67,lotus,30,30,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+68,love in the mist,8,7,0,1,0.875,1.0,Speedwell,1,None,0,None,0,87.5,100.0
+69,mexican petunia,12,11,0,1,0.9166666666666666,1.0,lilac hibiscus,1,None,0,None,0,91.66666666666666,100.0
+70,monkshood,14,14,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+71,moon orchid,8,8,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+72,orange dahlia,6,6,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+73,osteospermum,9,9,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+74,papyrus,13,13,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+75,passion flower,24,24,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+76,peruvian lily,16,16,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+77,pink quill,9,9,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+78,pink-yellow dahlia,16,16,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+79,prince of wales feathers,7,7,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+80,purple coneflower,13,13,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+81,red ginger,6,6,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+82,rhodomyrtus,18,18,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+83,rose,56,54,0,2,0.9642857142857143,1.0,lotus,2,None,0,None,0,96.42857142857143,100.0
+84,ruby-lipped cattleya,12,12,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+85,silverbush,8,8,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+86,snowflake flower,15,13,0,2,0.8666666666666667,1.0,cotton,1,Dietes,1,None,0,86.66666666666667,100.0
+87,spear thistle,21,21,2,0,1.0,0.9130434782608695,None,0,None,0,None,0,100.0,91.30434782608695
+88,stemless gentian,13,13,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+89,sunflower,42,41,0,1,0.9761904761904762,1.0,blanket flower,1,None,0,None,0,97.61904761904762,100.0
+90,thorn apple,24,24,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+91,tiger lily,16,16,2,0,1.0,0.8888888888888888,None,0,None,0,None,0,100.0,88.88888888888889
+92,toad lily,15,15,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+93,tree mallow,17,16,1,1,0.9411764705882353,0.9411764705882353,Platycodon,1,None,0,None,0,94.11764705882352,94.11764705882352
+94,tree poppy,13,13,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+95,trumpet creeper,15,15,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+96,uvaria,20,20,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+97,water snowflake,14,14,0,0,1.0,1.0,None,0,None,0,None,0,100.0,100.0
+98,watercress,29,28,0,1,0.9655172413793104,1.0,buttercup,1,None,0,None,0,96.55172413793103,100.0
+99,yellow iris,27,27,3,0,1.0,0.9,None,0,None,0,None,0,100.0,90.0

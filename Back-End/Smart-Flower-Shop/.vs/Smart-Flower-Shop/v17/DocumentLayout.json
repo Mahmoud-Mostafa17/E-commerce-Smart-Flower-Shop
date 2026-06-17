@@ -1,0 +1,505 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\dto\\resgisteruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:dto\\resgisteruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\dto\\updateorderstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:dto\\updateorderstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\dto\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:dto\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\dto\\cancelorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:dto\\cancelorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\dto\\prodeditiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:dto\\prodeditiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\dto\\careproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:dto\\careproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\dto\\flowerhomedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:dto\\flowerhomedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\dto\\productsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:dto\\productsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\dto\\imagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:dto\\imagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|e:\\kkk\\smart-flower-shop-main\\back-end\\smart-flower-shop\\migrations\\20250218153118_mtmorderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C2CBF7-0786-4DC3-87B3-49E78E871551}|Smart-Flower-Shop.csproj|solutionrelative:migrations\\20250218153118_mtmorderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbcontext.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Models\\ApplicationDbcontext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbcontext.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Models\\ApplicationDbcontext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbcontext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\DTO\\OrderDto.cs",
+              "RelativeDocumentMoniker": "DTO\\OrderDto.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\DTO\\OrderDto.cs",
+              "RelativeToolTip": "DTO\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Products.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Models\\Products.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Models\\Products.cs",
+              "RelativeToolTip": "Models\\Products.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswDgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAswJIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoleController.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwCAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwEEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-18T11:54:10.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-07T17:59:43.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResgisterUserDto.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\DTO\\ResgisterUserDto.cs",
+              "RelativeDocumentMoniker": "DTO\\ResgisterUserDto.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\DTO\\ResgisterUserDto.cs",
+              "RelativeToolTip": "DTO\\ResgisterUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LOGINDTO.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\DTO\\LOGINDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\LOGINDTO.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\DTO\\LOGINDTO.cs",
+              "RelativeToolTip": "DTO\\LOGINDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CategoryDTO.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "DTO\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateOrderStatusDto.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\DTO\\UpdateOrderStatusDto.cs",
+              "RelativeDocumentMoniker": "DTO\\UpdateOrderStatusDto.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\DTO\\UpdateOrderStatusDto.cs",
+              "RelativeToolTip": "DTO\\UpdateOrderStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderDetailsDTO.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\DTO\\OrderDetailsDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\OrderDetailsDTO.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\DTO\\OrderDetailsDTO.cs",
+              "RelativeToolTip": "DTO\\OrderDetailsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CancelOrderDto.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\DTO\\CancelOrderDto.cs",
+              "RelativeDocumentMoniker": "DTO\\CancelOrderDto.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\DTO\\CancelOrderDto.cs",
+              "RelativeToolTip": "DTO\\CancelOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "Models\\Orders.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Models\\Orders.cs",
+              "RelativeToolTip": "Models\\Orders.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwFMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProdEditionDto.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\DTO\\ProdEditionDto.cs",
+              "RelativeDocumentMoniker": "DTO\\ProdEditionDto.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\DTO\\ProdEditionDto.cs",
+              "RelativeToolTip": "DTO\\ProdEditionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CareProductDto.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\DTO\\CareProductDto.cs",
+              "RelativeDocumentMoniker": "DTO\\CareProductDto.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\DTO\\CareProductDto.cs",
+              "RelativeToolTip": "DTO\\CareProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FlowerHomeDto.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\DTO\\FlowerHomeDto.cs",
+              "RelativeDocumentMoniker": "DTO\\FlowerHomeDto.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\DTO\\FlowerHomeDto.cs",
+              "RelativeToolTip": "DTO\\FlowerHomeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductsDTO.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\DTO\\ProductsDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ProductsDTO.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\DTO\\ProductsDTO.cs",
+              "RelativeToolTip": "DTO\\ProductsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ImageDTO.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\DTO\\ImageDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ImageDTO.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\DTO\\ImageDTO.cs",
+              "RelativeToolTip": "DTO\\ImageDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250218153118_MTMOrderProduct.cs",
+              "DocumentMoniker": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Migrations\\20250218153118_MTMOrderProduct.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250218153118_MTMOrderProduct.cs",
+              "ToolTip": "E:\\kkk\\Smart-Flower-Shop-main\\Back-End\\Smart-Flower-Shop\\Migrations\\20250218153118_MTMOrderProduct.cs",
+              "RelativeToolTip": "Migrations\\20250218153118_MTMOrderProduct.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:59:43.689Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
